@@ -1,3 +1,3 @@
 # FirstHub
-just apractice
+just a practice
 still learning configuration..
